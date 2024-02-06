@@ -1,0 +1,10 @@
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project 8\project 8\bin\Debug\project 8.exe.config
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project 8\project 8\bin\Debug\project 8.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project 8\project 8\bin\Debug\project 8.pdb
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project 8\project 8\bin\Debug\project 8.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project 8\project 8\obj\Debug\project 8.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project 8\project 8\obj\Debug\project_8.Resources.resources
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project 8\project 8\obj\Debug\project 8.vbproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project 8\project 8\obj\Debug\project 8.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project 8\project 8\obj\Debug\project 8.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project 8\project 8\obj\Debug\project 8.pdb
