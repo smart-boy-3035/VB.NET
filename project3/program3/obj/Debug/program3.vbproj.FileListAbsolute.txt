@@ -1,0 +1,10 @@
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program3\program3\bin\Debug\program3.exe.config
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program3\program3\bin\Debug\program3.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program3\program3\bin\Debug\program3.pdb
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program3\program3\bin\Debug\program3.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program3\program3\obj\Debug\program3.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program3\program3\obj\Debug\program3.Resources.resources
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program3\program3\obj\Debug\program3.vbproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program3\program3\obj\Debug\program3.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program3\program3\obj\Debug\program3.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program3\program3\obj\Debug\program3.pdb
