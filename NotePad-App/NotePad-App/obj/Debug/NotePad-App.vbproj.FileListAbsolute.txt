@@ -1,0 +1,12 @@
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\bin\Debug\NotePad-App.exe.config
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\bin\Debug\NotePad-App.exe
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\bin\Debug\NotePad-App.pdb
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\bin\Debug\NotePad-App.xml
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\obj\Debug\NotePad-App.vbprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\obj\Debug\NotePad_App.Form1.resources
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\obj\Debug\NotePad_App.Resources.resources
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\obj\Debug\NotePad-App.vbproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\obj\Debug\NotePad-App.exe
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\obj\Debug\NotePad-App.xml
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\obj\Debug\NotePad-App.pdb
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\NotePad-App\NotePad-App\obj\Debug\NotePad_App.Form2.resources
