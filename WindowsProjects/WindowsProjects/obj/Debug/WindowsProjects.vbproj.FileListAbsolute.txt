@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\WindowsProjects\WindowsProjects\bin\Debug\WindowsProjects.exe.config
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\WindowsProjects\WindowsProjects\bin\Debug\WindowsProjects.exe
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\WindowsProjects\WindowsProjects\bin\Debug\WindowsProjects.pdb
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\WindowsProjects\WindowsProjects\bin\Debug\WindowsProjects.xml
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\WindowsProjects\WindowsProjects\obj\Debug\WindowsProjects.vbprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\WindowsProjects\WindowsProjects\obj\Debug\WindowsProjects.Form1.resources
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\WindowsProjects\WindowsProjects\obj\Debug\WindowsProjects.Resources.resources
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\WindowsProjects\WindowsProjects\obj\Debug\WindowsProjects.vbproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\WindowsProjects\WindowsProjects\obj\Debug\WindowsProjects.exe
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\WindowsProjects\WindowsProjects\obj\Debug\WindowsProjects.xml
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\WINDOW\WindowsProjects\WindowsProjects\obj\Debug\WindowsProjects.pdb
