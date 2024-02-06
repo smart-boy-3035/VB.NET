@@ -1,0 +1,9 @@
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program5\program5\bin\Debug\program5.exe.config
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program5\program5\obj\Debug\program5.Resources.resources
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program5\program5\obj\Debug\program5.vbproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program5\program5\bin\Debug\program5.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program5\program5\bin\Debug\program5.pdb
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program5\program5\bin\Debug\program5.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program5\program5\obj\Debug\program5.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program5\program5\obj\Debug\program5.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program5\program5\obj\Debug\program5.pdb
