@@ -1,0 +1,10 @@
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project13\project13\bin\Debug\project13.exe.config
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project13\project13\bin\Debug\project13.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project13\project13\bin\Debug\project13.pdb
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project13\project13\bin\Debug\project13.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project13\project13\obj\Debug\project13.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project13\project13\obj\Debug\project13.Resources.resources
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project13\project13\obj\Debug\project13.vbproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project13\project13\obj\Debug\project13.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project13\project13\obj\Debug\project13.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project13\project13\obj\Debug\project13.pdb
