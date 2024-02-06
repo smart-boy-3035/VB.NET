@@ -1,0 +1,11 @@
+C:\Users\HP\AppData\Local\Temporary Projects\project1\bin\Debug\project1.exe
+C:\Users\HP\AppData\Local\Temporary Projects\project1\bin\Debug\project1.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\project1\bin\Debug\project1.xml
+C:\Users\HP\AppData\Local\Temporary Projects\project1\obj\x86\Debug\project1.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\project1\obj\x86\Debug\project1.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\project1\obj\x86\Debug\project1.exe
+C:\Users\HP\AppData\Local\Temporary Projects\project1\obj\x86\Debug\project1.xml
+C:\Users\HP\AppData\Local\Temporary Projects\project1\obj\x86\Debug\project1.pdb
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\CONSOL\project1\project1\obj\x86\Debug\project1.exe
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\CONSOL\project1\project1\obj\x86\Debug\project1.xml
+C:\Users\HP\OneDrive\Desktop\COADING\VB DOT NET\CONSOL\project1\project1\obj\x86\Debug\project1.pdb
