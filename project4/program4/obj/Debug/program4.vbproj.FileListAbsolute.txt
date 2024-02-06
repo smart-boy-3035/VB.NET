@@ -1,0 +1,10 @@
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program4\program4\bin\Debug\program4.exe.config
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program4\program4\bin\Debug\program4.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program4\program4\bin\Debug\program4.pdb
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program4\program4\bin\Debug\program4.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program4\program4\obj\Debug\program4.Resources.resources
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program4\program4\obj\Debug\program4.vbproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program4\program4\obj\Debug\program4.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program4\program4\obj\Debug\program4.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program4\program4\obj\Debug\program4.pdb
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\program4\program4\obj\Debug\program4.vbprojResolveAssemblyReference.cache
