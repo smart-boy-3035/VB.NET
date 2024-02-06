@@ -1,0 +1,10 @@
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project11\project11\bin\Debug\project11.exe.config
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project11\project11\bin\Debug\project11.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project11\project11\bin\Debug\project11.pdb
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project11\project11\bin\Debug\project11.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project11\project11\obj\Debug\project11.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project11\project11\obj\Debug\project11.Resources.resources
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project11\project11\obj\Debug\project11.vbproj.GenerateResource.Cache
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project11\project11\obj\Debug\project11.exe
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project11\project11\obj\Debug\project11.xml
+C:\Users\HP\Downloads\Desktop\COADING\VB DOT NET\project11\project11\obj\Debug\project11.pdb
